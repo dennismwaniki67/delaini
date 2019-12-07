@@ -7,14 +7,14 @@ html{
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #ffffff;
+  color: BLUE;
   text-align: center;
   padding-top:17%; 
   font-family: 'Gabriela', serif;
   /* padding-bottom:5%; */
 }
 .landing h1{
-  padding: 4px;
+  padding: 2px;
   margin: 5px;
 }
 .landing p{
