@@ -23,10 +23,10 @@ https://dennismwaniki67.github.io/delaini
 
 ## Technologies Used
 
-* [HTML5](https://github.com/topics/html5)
-* [CSS](https://github.com/topics/css3)
-* [Bootstrap](https://github.com/topics/bootstrap)
-* [jQuery](https://github.com/topics/javascript)
+* [HTML5]
+* [CSS]
+* [Bootstrap]
+* [jQuery]
 * markdown
 
 
@@ -38,9 +38,6 @@ https://dennismwaniki67.github.io/delaini
 | Enter your message or comment   |  I would love to work with you     |     |
 | Press Submit|     |Pop up "Dennis , we have received your message. Thank you for reaching out to us.|
 
-## Known Bugs
-* The site is not responsive enough for some devices. 
-* mail chimp API does not function properly.
 
 ## Contact Information 
 
