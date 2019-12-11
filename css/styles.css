@@ -129,12 +129,12 @@ input[type=text],input[type=email],#comment{
 .form-control::-webkit-input-placeholder { 
   color: white; 
 }
-#MERGE1{
+#mce-NAME{
   width: 30%;
   margin-left: 18%;
   margin-right: 30px;
 }
-#MERGE0{
+#mce-EMAIL{
   width: 30%;
 }
 #comment{
@@ -225,12 +225,12 @@ footer p{
     padding-bottom: 30px;
     margin-bottom: 20px;
   }
-  #MERGE0{
+  #mce-EMAIL{
     width: 84%;
     margin-left: 4%;
     padding-bottom: 10px;
   }
-  #MERGE1{
+  #mce-NAME{
     width: 100%;
     margin-left: 4%;
     margin-bottom: 20px;
@@ -276,3 +276,26 @@ footer p{
   }
 }
 
+#work8{
+ background-size: cover;
+    float:right;
+    opacity: 0.9;
+    background: linear-gradient(#070606ea, #141414d0),
+    url('/images/portfolio/work8.jpg');
+    height: 320px;
+    max-width: 360px;
+    margin-bottom: 2%;
+    margin:10px 0px 0px 40px ;
+  }
+  #overlay8 p{
+    border: 3px solid white;
+      font-size: 22px;
+      margin-top: 10%;
+      margin-bottom: 1%;
+      margin-right: 8%;
+      margin-left: 8%;
+      z-index:1;
+      color:white;
+      padding-top: 4px;
+      scroll-padding-left: 2%;
+    }
